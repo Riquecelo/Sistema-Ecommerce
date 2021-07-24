@@ -13,8 +13,8 @@ Projeto de um sistema para cadastrar produtos e dados de clientes
 
 ## Cadastro de Produtos
 * Cadastro feito através de formulário
-* Os dados do cadastro são armazenados no localStorage do navegador <br/>
-* Para armazenar os dados no localstorage foi utilizado JavaScript
+* Os dados do cadastro são armazenados no localStorage do navegador 
+* Para armazenar os dados no localstorage foi utilizado JavaScript<br/>
 <img src="https://github.com/Riquecelo/Sistema-Ecommerce/blob/main/img/sistemaEcommerceP.PNG"/> <br/>
 
 * Veja o projeto clicando no botão abaixo <br/><br/>
