@@ -1,6 +1,6 @@
 # Sistema-de-Cadastro-E-commerce
 Projeto de um sistema para cadastrar produtos e dados de clientes
-### Técnologias usadas
+### Tecnologias usadas
 * Html
 * Css
 * JavaScript <br/>
