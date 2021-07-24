@@ -1,5 +1,9 @@
 # Sistema-de-Cadastro-E-commerce
- Sistema E-commerce para cadastrar produtos e dados de clientes
+Projeto de um sistema para cadastrar produtos e dados de clientes
+### Técnologias usadas
+* Html
+* Css
+* JavaScript <br/>
 <img src="https://github.com/Riquecelo/Sistema-Ecommerce/blob/main/img/sistemaEcommerce.PNG"/> <br/>
 
 ## Cadastro de Cliente
@@ -10,4 +14,8 @@
 ## Cadastro de Produtos
 * Cadastro feito através de formulário
 * Os dados do cadastro são armazenados no localStorage do navegador <br/>
+* Para armazenar os dados no localstorage foi utilizado JavaScript
 <img src="https://github.com/Riquecelo/Sistema-Ecommerce/blob/main/img/sistemaEcommerceP.PNG"/> <br/>
+
+* Veja o projeto clicando no botão abaixo <br/><br/>
+<a href="https://stupefied-austin-f82ec1.netlify.app"> <img src="https://github.com/Riquecelo/Sistema-Ecommerce/blob/main/img/adicionar.png"> <a/>
