@@ -1,3 +1,5 @@
+<img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Riquecelo/Sistema-Ecommerce" /> <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Riquecelo/Sistema-Ecommerce" /> <img alt="" src="https://img.shields.io/github/repo-size/Riquecelo/Sistema-Ecommerce" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Riquecelo/Sistema-Ecommerce" /> <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Riquecelo/Sistema-Ecommerce" /> <img alt="Github License" src="https://img.shields.io/github/license/Riquecelo/Sistema-Ecommerce" />
+
 # Sistema-de-Cadastro-E-commerce
 Projeto de um sistema para cadastrar produtos e dados de clientes
 ### Tecnologias usadas
