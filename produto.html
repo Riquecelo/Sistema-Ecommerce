@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="img/comercio-eletronico.png" type="image/x-icon">
+    <link rel="stylesheet" href="cadastro.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;400;700&display=swap" rel="stylesheet">
+
+    <title>Sistema de Cadastro</title>
+</head>
+<body>
+    <header class="menu ">
+        <div class="menu-left ">
+            
+            <h1>Sistema de cadastro</h1>
+        </div>
+        
+        <div class="menu-logo ">
+            <img src="img/carrinho.png" alt="carinho de bagagem">
+        </div>
+        <div class="menu-right ">
+            <h1>E-Commerce</h1>
+        </div>
+    </header>
+    
+    <section class="section-container background-section-two">
+
+
+    <div class="card-container">
+        
+        <div id="content">
+            <p>Cadastrar Produto</p>
+            <form id="form">
+                <fieldset>
+                    <legend>Dados do Produto</legend>
+                    <label>Produto <input type="text" id="prod"></label>
+                    <label>Marca <input type="text" id="marc"></label>
+                    <label>Modelo <input type="text" id="modl"></label>
+                    <label>Quantidade <input type="text" id="quant"></label> 
+                </fieldset>
+
+                <fieldset>
+                    <legend>Dados Localização</legend>
+                    <label>CódigoProduto <input type="text" id="codP"></label>
+                    <label>Local <input type="text" id="local"></label>
+                    <label>CódigoLocalização <input type="text" id="codL"></label>
+                    <label>Loja <input type="text" id="loja"></label>
+                    
+                     
+                </fieldset>
+                
+                <input class="submit" type="submit" value="cadastrar">
+            </form>
+        </div>
+        
+    </div>
+    <div>
+        <a href="index.html" class="buttonClass"> Voltar</a>
+    </div>
+    
+    </section>
+
+
+</body>
+<script src="script.js"></script>
+</html>
