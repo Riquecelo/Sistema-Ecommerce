@@ -5,20 +5,17 @@
 }
 
 .menu {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
-    padding: 35px 16px;
+    width: auto;
+    display: flex; 
+    justify-content: space-between;
+    padding: 35px 0px;
     background-color: #ffffff ;
     color: #3a8a9e;
   }
 
 .menu h1{
     width: 500px;
-    margin: 0 10px;
+    
     text-align: center;
 }
   
@@ -110,5 +107,76 @@ legend{
     background: linear-gradient(#bab1ba, #ededed);
   }
                 
-  
+                   
+@media screen and (max-width:500px) {
+    saction{
+        width: vw;
+        height: vh;
+    }
+    .section-container div {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .buttonClass{
+        text-align: center;
+    }
+    .menu-left, .menu-right{
+        display: none;
+    }
+    .menu-logo{
+        margin-left: 40%;
+    }
+    
+}
+                
+@media screen and (max-width:500px) {
+    saction{
+        width: vw;
+        height: vh;
+    }
+    .section-container div {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .buttonClass{
+        text-align: center;
+    }
+    .menu-left, .menu-right{
+        display: none;
+    }
+    .menu-logo{
+        margin-left: 40%;
+    }
+    
+}
+
+@media screen and (max-width:900px) {
+
+    .menu-right{
+        display: none;
+    }
+    .menu h1, img{
+        width: auto;
+        margin: 0 10px;
+        text-align: center;
+        display: flex;
+        justify-content: space-between;
+    }
+}
+@media screen and (max-width:1024px) {
+    .menu h1, img{
+        width: auto;
+        margin: 0 10px;
+        text-align: center;
+        display: flex;
+        justify-content: space-between;
+    }
+    
+} 
 
