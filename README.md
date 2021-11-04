@@ -19,4 +19,4 @@ Projeto de um sistema para cadastrar produtos e dados de clientes
 <img src="https://github.com/Riquecelo/Sistema-Ecommerce/blob/main/img/sistemaEcommerceP.PNG"/> <br/>
 
 * Veja o projeto clicando no botão abaixo <br/><br/>
-<a href="https://stupefied-austin-f82ec1.netlify.app"> <img src="https://github.com/Riquecelo/Sistema-Ecommerce/blob/main/img/adicionar.png"> <a/>
+ <a href="https://stupefied-austin-f82ec1.netlify.app"> <img src="https://img.shields.io/badge/acessar-site-lightblue"> <a/>
